@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "157596850078",
+    "project_id": "perpus-2479b",
+    "storage_bucket": "perpus-2479b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157596850078:android:5c81da2e0f5015fef0e88f",
+        "android_client_info": {
+          "package_name": "com.example.perpus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157596850078-afubec31p3orug73edb9l564gkbknejs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIzxQYoqbflvX2cklWJ8kJF9ZziUrGI8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157596850078-afubec31p3orug73edb9l564gkbknejs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157596850078:android:3908be4e379a357af0e88f",
+        "android_client_info": {
+          "package_name": "smaga.example.perpus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157596850078-afubec31p3orug73edb9l564gkbknejs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIzxQYoqbflvX2cklWJ8kJF9ZziUrGI8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157596850078-afubec31p3orug73edb9l564gkbknejs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
